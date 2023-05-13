@@ -1,0 +1,85 @@
+
+body{
+    margin: 0px;
+}
+.upper{
+    background-color: #3F5C9A;
+    color: white;
+    height: 100px;
+    width: 100%;
+    position: relative;
+}
+.face{
+    position: absolute;
+    top: 15%;
+    left: 20%;
+    
+}
+.table{
+    position: absolute;
+    top: 5%;
+    right: 10%;
+}
+.middle{
+    background-color: #E2E5F0;
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+.img{ width: 500px;
+    height: 300px;
+    position: absolute;
+    top: 100px;
+    left: 200px;
+
+}
+.line{
+    position: absolute;
+    top: 40px;
+    left: 150px;
+    font-size: 25px;
+}
+form {
+    position: absolute;
+    float:right;
+    top: 10px;
+    left: 1000px;
+}
+.f{
+    height: 25px;
+}
+.l{
+    height: 25px;
+}
+.email{
+    width: 337px;
+    height: 25px;
+}
+.r{
+    width: 337px;
+    height: 25px;
+}
+.pass{
+    width: 337px;
+    height: 25px;
+}
+.birth{
+    position: absolute;
+   top: 340px;
+    right: 15px;
+    font-size: small;
+}
+.gen{
+     font-size: 20px;
+}
+.lastbox{
+    
+    height: 40px;
+    width: 180px;
+    background-color: #5B9147;
+    border-radius: 5px;
+    color: white;
+}
+
+
+    
